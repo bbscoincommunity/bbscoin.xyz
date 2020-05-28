@@ -1,0 +1,1 @@
+<?php define('IN_HOME', true); require('core.inc.php'); ?>
